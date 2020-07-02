@@ -7,4 +7,5 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
-* Atomo
+* Atom
+* Iron Man
